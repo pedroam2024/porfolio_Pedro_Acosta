@@ -20,7 +20,7 @@ const i18n = {
       competencies: "Competencias",
       ai: "IA & Integraciones",
     },
-    profile: `Licenciado en Ciencias Informáticas con más de <strong>15 años de experiencia</strong> en desarrollo de software para entornos de alta criticidad. Actualmente en <strong>Electroban SAECA</strong> (retail & financiamiento, +35 sucursales), con trayectoria en <strong>sistemas bancarios, microservicios, GeneXus + GX Server, Azure</strong> e integración de servicios externos (WhatsApp API, plataformas de mensajería y terceros). Uso activo de <strong>IA (Claude, ChatGPT, Copilot, Gemini)</strong> para análisis, investigación y soporte QA. Referente técnico con experiencia en sistemas <strong>24/7 y pipelines CI/CD empresariales</strong>.`,
+    profile: `Licenciado en Ciencias Informáticas con más de <strong>7 años de experiencia</strong> en desarrollo de software para entornos de alta criticidad. Actualmente en <strong>Electroban SAECA</strong> (retail & financiamiento, +35 sucursales), con trayectoria en <strong>sistemas bancarios, microservicios, GeneXus + GX Server, Azure</strong> e integración de servicios externos (WhatsApp API, plataformas de mensajería y terceros). Uso activo de <strong>IA (Claude, ChatGPT, Copilot, Gemini)</strong> para análisis, investigación y soporte QA. Referente técnico con experiencia en sistemas <strong>24/7 y pipelines CI/CD empresariales</strong>.`,
     langLevels: ["Nativo", "Intermedio", "Básico"],
     aiTools: [
       { name: "Claude · ChatGPT · Gemini", desc: "Análisis, investigación y síntesis técnica" },
@@ -113,7 +113,7 @@ const i18n = {
       competencies: "Core Skills",
       ai: "AI & Integrations",
     },
-    profile: `Computer Science graduate with over <strong>15 years of experience</strong> delivering software for high-criticality environments. Currently at <strong>Electroban SAECA</strong> (retail & consumer finance, 35+ branches), with a strong track record in <strong>banking systems, microservices, GeneXus + GX Server, Azure</strong> and external service integrations (WhatsApp API, messaging platforms and third-party connectors). Active user of <strong>AI tools (Claude, ChatGPT, Copilot, Gemini)</strong> for analysis, research and QA support. Technical lead with experience in <strong>24/7 systems and enterprise CI/CD pipelines</strong>.`,
+    profile: `Computer Science graduate with over <strong>7 years of experience</strong> delivering software for high-criticality environments. Currently at <strong>Electroban SAECA</strong> (retail & consumer finance, 35+ branches), with a strong track record in <strong>banking systems, microservices, GeneXus + GX Server, Azure</strong> and external service integrations (WhatsApp API, messaging platforms and third-party connectors). Active user of <strong>AI tools (Claude, ChatGPT, Copilot, Gemini)</strong> for analysis, research and QA support. Technical lead with experience in <strong>24/7 systems and enterprise CI/CD pipelines</strong>.`,
     langLevels: ["Native", "Intermediate", "Basic"],
     aiTools: [
       { name: "Claude · ChatGPT · Gemini", desc: "Technical analysis, research & synthesis" },
@@ -206,7 +206,7 @@ const i18n = {
       competencies: "Competências",
       ai: "IA & Integrações",
     },
-    profile: `Licenciado em Ciência da Computação com mais de <strong>15 anos de experiência</strong> em desenvolvimento de software para ambientes de alta criticidade. Atualmente na <strong>Electroban SAECA</strong> (varejo & financiamento ao consumidor, +35 filiais), com trajetória em <strong>sistemas bancários, microsserviços, GeneXus + GX Server, Azure</strong> e integração de serviços externos (WhatsApp API, plataformas de mensagens e conectores de terceiros). Uso ativo de <strong>IA (Claude, ChatGPT, Copilot, Gemini)</strong> para análise, pesquisa e suporte QA. Referência técnica com experiência em <strong>sistemas 24/7 e pipelines CI/CD empresariais</strong>.`,
+    profile: `Licenciado em Ciência da Computação com mais de <strong>7 anos de experiência</strong> em desenvolvimento de software para ambientes de alta criticidade. Atualmente na <strong>Electroban SAECA</strong> (varejo & financiamento ao consumidor, +35 filiais), com trajetória em <strong>sistemas bancários, microsserviços, GeneXus + GX Server, Azure</strong> e integração de serviços externos (WhatsApp API, plataformas de mensagens e conectores de terceiros). Uso ativo de <strong>IA (Claude, ChatGPT, Copilot, Gemini)</strong> para análise, pesquisa e suporte QA. Referência técnica com experiência em <strong>sistemas 24/7 e pipelines CI/CD empresariais</strong>.`,
     langLevels: ["Nativo", "Intermediário", "Básico"],
     aiTools: [
       { name: "Claude · ChatGPT · Gemini", desc: "Análise técnica, pesquisa e síntese" },
