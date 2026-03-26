@@ -86,18 +86,6 @@ const i18n = {
           "Soporte técnico nivel 2 y 3 en sistemas de misión crítica con SLAs exigentes.",
         ],
       },
-      {
-        when: "Feb 2005\nDic 2010",
-        role: "Analista Desarrollador",
-        co: "I-LINE S.A.",
-        sector: "Desarrollo de Software",
-        pills: [["gx","GeneXus"],["gx","GX Server"]],
-        items: [
-          "Desarrollo de módulos core del sistema central en GeneXus con gestión de versiones en GX Server.",
-          "Ciclo completo de desarrollo: análisis, diseño, implementación, pruebas y soporte en producción.",
-          "Implementación de control de acceso y gestión de usuarios para sistemas multiusuario.",
-        ],
-      },
     ],
     education: [
       { t: "Lic. Ciencias Informáticas", s: "Énfasis en Sistemas Informáticos", p: "UAA · 2012 – 2017" },
@@ -191,18 +179,6 @@ const i18n = {
           "Provided Level 2 & 3 support for mission-critical systems under demanding SLAs.",
         ],
       },
-      {
-        when: "Feb 2005\nDec 2010",
-        role: "Systems Analyst & Developer",
-        co: "I-LINE S.A.",
-        sector: "Software Development",
-        pills: [["gx","GeneXus"],["gx","GX Server"]],
-        items: [
-          "Developed core system modules in GeneXus with GX Server version management.",
-          "Full development lifecycle: analysis, design, implementation, testing and production support.",
-          "Implemented access control and user management for multi-user systems.",
-        ],
-      },
     ],
     education: [
       { t: "B.Sc. Computer Science", s: "Systems Informatics Track", p: "UAA · 2012 – 2017" },
@@ -294,18 +270,6 @@ const i18n = {
           "Implementação de microsserviços com APIs REST e Web Services SOAP em ambientes de alta carga.",
           "Migração de sistemas legados para arquiteturas modernas implantadas no Azure.",
           "Suporte técnico nível 2 e 3 em sistemas de missão crítica com SLAs exigentes.",
-        ],
-      },
-      {
-        when: "Fev 2005\nDez 2010",
-        role: "Analista Desenvolvedor",
-        co: "I-LINE S.A.",
-        sector: "Desenvolvimento de Software",
-        pills: [["gx","GeneXus"],["gx","GX Server"]],
-        items: [
-          "Desenvolvimento de módulos core do sistema central em GeneXus com GX Server.",
-          "Ciclo completo: análise, design, implementação, testes e suporte em produção.",
-          "Implementação de controle de acesso e gestão de usuários para sistemas multiusuário.",
         ],
       },
     ],
